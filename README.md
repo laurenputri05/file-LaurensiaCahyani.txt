@@ -1,2 +1,2 @@
 # file-LaurensiaCahyani.txt
-praktek-kpl
+KULIAH-KPL
